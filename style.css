@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+.outerdiv{
+    /* background-color: rgb(117, 159, 196); */
+    width: 210mm; /* A4 width */
+    height: 350mm; /* A4 height */
+    padding: 20mm;
+    /* background-color: white; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+
+.headercontent{
+    background-color: rgb(94, 95, 102);
+    width: 50em;
+    display: flex;
+    height: 20em;
+}
+.headercontent .name{
+    margin: 20px;
+    /* background-color: blanchedalmond; */
+
+}
+/* .subheaderdiv2 img #imgsize {
+ float:inline-end;
+ align-items: start;
+ padding-left: 100px;
+
+ 
+} */
+.subheaderdiv2{
+    /* background-color: aqua; */
+    width: 19em;
+    padding: px;
+    float: left;
+}
+.subheaderdiv3{
+    float:left;
+ /* align-items: start; */
+ /* padding-left: 100px; */
+
+}
+.objectivediv{
+
+}
+.bodydiv{
+  
+
+}
+ul{
+    list-style-type: none;
+    background :url(./assets/edu_ul-removebg-preview.png) no-repeat;
+}
+.Eduheading{
+    padding:30px;
+
+
+}
+.edubody{
+
+}
